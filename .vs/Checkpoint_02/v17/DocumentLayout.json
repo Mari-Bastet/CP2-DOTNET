@@ -1,0 +1,444 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maria\\Downloads\\checkpoint02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7DD38BE-71C6-4394-83C6-8F1BA824BB58}|CP2.Domain\\CP2.Domain.csproj|C:\\Users\\maria\\Downloads\\checkpoint02\\cp2.domain\\entities\\vendedorentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7DD38BE-71C6-4394-83C6-8F1BA824BB58}|CP2.Domain\\CP2.Domain.csproj|solutionrelative:cp2.domain\\entities\\vendedorentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7DD38BE-71C6-4394-83C6-8F1BA824BB58}|CP2.Domain\\CP2.Domain.csproj|C:\\Users\\maria\\Downloads\\checkpoint02\\cp2.domain\\entities\\fornecedorentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7DD38BE-71C6-4394-83C6-8F1BA824BB58}|CP2.Domain\\CP2.Domain.csproj|solutionrelative:cp2.domain\\entities\\fornecedorentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AC50E1B-5DDA-4525-93D2-47783F606116}|CP2.Application\\CP2.Application.csproj|C:\\Users\\maria\\Downloads\\checkpoint02\\cp2.application\\dtos\\vendedordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AC50E1B-5DDA-4525-93D2-47783F606116}|CP2.Application\\CP2.Application.csproj|solutionrelative:cp2.application\\dtos\\vendedordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AC50E1B-5DDA-4525-93D2-47783F606116}|CP2.Application\\CP2.Application.csproj|c:\\users\\maria\\downloads\\checkpoint02\\cp2.application\\dtos\\fornecedordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AC50E1B-5DDA-4525-93D2-47783F606116}|CP2.Application\\CP2.Application.csproj|solutionrelative:cp2.application\\dtos\\fornecedordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E7898DA-65EE-4C60-9BC7-2A37886F684E}|CP2.API\\CP2.API.csproj|C:\\Users\\maria\\Downloads\\checkpoint02\\cp2.api\\controllers\\vendedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E7898DA-65EE-4C60-9BC7-2A37886F684E}|CP2.API\\CP2.API.csproj|solutionrelative:cp2.api\\controllers\\vendedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E7898DA-65EE-4C60-9BC7-2A37886F684E}|CP2.API\\CP2.API.csproj|C:\\Users\\maria\\Downloads\\checkpoint02\\cp2.api\\controllers\\fornecedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E7898DA-65EE-4C60-9BC7-2A37886F684E}|CP2.API\\CP2.API.csproj|solutionrelative:cp2.api\\controllers\\fornecedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB91E44-8357-4CA1-8D16-B8107E1C587C}|CP2.Data\\CP2.Data.csproj|C:\\Users\\maria\\Downloads\\checkpoint02\\cp2.data\\repositories\\fornecedorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB91E44-8357-4CA1-8D16-B8107E1C587C}|CP2.Data\\CP2.Data.csproj|solutionrelative:cp2.data\\repositories\\fornecedorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7DD38BE-71C6-4394-83C6-8F1BA824BB58}|CP2.Domain\\CP2.Domain.csproj|C:\\Users\\maria\\Downloads\\checkpoint02\\cp2.domain\\interfaces\\ifornecedorapplicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7DD38BE-71C6-4394-83C6-8F1BA824BB58}|CP2.Domain\\CP2.Domain.csproj|solutionrelative:cp2.domain\\interfaces\\ifornecedorapplicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7DD38BE-71C6-4394-83C6-8F1BA824BB58}|CP2.Domain\\CP2.Domain.csproj|C:\\Users\\maria\\Downloads\\checkpoint02\\cp2.domain\\interfaces\\dtos\\ifornecedordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7DD38BE-71C6-4394-83C6-8F1BA824BB58}|CP2.Domain\\CP2.Domain.csproj|solutionrelative:cp2.domain\\interfaces\\dtos\\ifornecedordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7DD38BE-71C6-4394-83C6-8F1BA824BB58}|CP2.Domain\\CP2.Domain.csproj|C:\\Users\\maria\\Downloads\\checkpoint02\\cp2.domain\\interfaces\\ivendedorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7DD38BE-71C6-4394-83C6-8F1BA824BB58}|CP2.Domain\\CP2.Domain.csproj|solutionrelative:cp2.domain\\interfaces\\ivendedorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB91E44-8357-4CA1-8D16-B8107E1C587C}|CP2.Data\\CP2.Data.csproj|C:\\Users\\maria\\Downloads\\checkpoint02\\cp2.data\\migrations\\20241012040516_migrationdois.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB91E44-8357-4CA1-8D16-B8107E1C587C}|CP2.Data\\CP2.Data.csproj|solutionrelative:cp2.data\\migrations\\20241012040516_migrationdois.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB91E44-8357-4CA1-8D16-B8107E1C587C}|CP2.Data\\CP2.Data.csproj|C:\\Users\\maria\\Downloads\\checkpoint02\\cp2.data\\migrations\\20241012035148_migrationum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB91E44-8357-4CA1-8D16-B8107E1C587C}|CP2.Data\\CP2.Data.csproj|solutionrelative:cp2.data\\migrations\\20241012035148_migrationum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB91E44-8357-4CA1-8D16-B8107E1C587C}|CP2.Data\\CP2.Data.csproj|C:\\Users\\maria\\Downloads\\checkpoint02\\cp2.data\\migrations\\applicationcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB91E44-8357-4CA1-8D16-B8107E1C587C}|CP2.Data\\CP2.Data.csproj|solutionrelative:cp2.data\\migrations\\applicationcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33485229-72D3-44C7-901A-DA204BF1F75E}|CP2.IoC\\CP2.IoC.csproj|C:\\Users\\maria\\Downloads\\checkpoint02\\cp2.ioc\\bootstrap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33485229-72D3-44C7-901A-DA204BF1F75E}|CP2.IoC\\CP2.IoC.csproj|solutionrelative:cp2.ioc\\bootstrap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E7898DA-65EE-4C60-9BC7-2A37886F684E}|CP2.API\\CP2.API.csproj|C:\\Users\\maria\\Downloads\\checkpoint02\\cp2.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E7898DA-65EE-4C60-9BC7-2A37886F684E}|CP2.API\\CP2.API.csproj|solutionrelative:cp2.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB91E44-8357-4CA1-8D16-B8107E1C587C}|CP2.Data\\CP2.Data.csproj|C:\\Users\\maria\\Downloads\\checkpoint02\\cp2.data\\appdata\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB91E44-8357-4CA1-8D16-B8107E1C587C}|CP2.Data\\CP2.Data.csproj|solutionrelative:cp2.data\\appdata\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E7898DA-65EE-4C60-9BC7-2A37886F684E}|CP2.API\\CP2.API.csproj|C:\\Users\\maria\\Downloads\\checkpoint02\\cp2.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9E7898DA-65EE-4C60-9BC7-2A37886F684E}|CP2.API\\CP2.API.csproj|solutionrelative:cp2.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E7898DA-65EE-4C60-9BC7-2A37886F684E}|CP2.API\\CP2.API.csproj|C:\\Users\\maria\\Downloads\\checkpoint02\\cp2.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9E7898DA-65EE-4C60-9BC7-2A37886F684E}|CP2.API\\CP2.API.csproj|solutionrelative:cp2.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7DD38BE-71C6-4394-83C6-8F1BA824BB58}|CP2.Domain\\CP2.Domain.csproj|C:\\Users\\maria\\Downloads\\checkpoint02\\cp2.domain\\interfaces\\dtos\\ivendedordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7DD38BE-71C6-4394-83C6-8F1BA824BB58}|CP2.Domain\\CP2.Domain.csproj|solutionrelative:cp2.domain\\interfaces\\dtos\\ivendedordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB91E44-8357-4CA1-8D16-B8107E1C587C}|CP2.Data\\CP2.Data.csproj|C:\\Users\\maria\\Downloads\\checkpoint02\\cp2.data\\repositories\\vendedorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB91E44-8357-4CA1-8D16-B8107E1C587C}|CP2.Data\\CP2.Data.csproj|solutionrelative:cp2.data\\repositories\\vendedorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7DD38BE-71C6-4394-83C6-8F1BA824BB58}|CP2.Domain\\CP2.Domain.csproj|C:\\Users\\maria\\Downloads\\checkpoint02\\cp2.domain\\interfaces\\ifornecedorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7DD38BE-71C6-4394-83C6-8F1BA824BB58}|CP2.Domain\\CP2.Domain.csproj|solutionrelative:cp2.domain\\interfaces\\ifornecedorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AC50E1B-5DDA-4525-93D2-47783F606116}|CP2.Application\\CP2.Application.csproj|C:\\Users\\maria\\Downloads\\checkpoint02\\cp2.application\\services\\fornecedorapplicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AC50E1B-5DDA-4525-93D2-47783F606116}|CP2.Application\\CP2.Application.csproj|solutionrelative:cp2.application\\services\\fornecedorapplicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AC50E1B-5DDA-4525-93D2-47783F606116}|CP2.Application\\CP2.Application.csproj|C:\\Users\\maria\\Downloads\\checkpoint02\\cp2.application\\services\\vendedorapplicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AC50E1B-5DDA-4525-93D2-47783F606116}|CP2.Application\\CP2.Application.csproj|solutionrelative:cp2.application\\services\\vendedorapplicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33485229-72D3-44C7-901A-DA204BF1F75E}|CP2.IoC\\CP2.IoC.csproj|C:\\Users\\maria\\Downloads\\checkpoint02\\cp2.ioc\\cp2.ioc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{33485229-72D3-44C7-901A-DA204BF1F75E}|CP2.IoC\\CP2.IoC.csproj|solutionrelative:cp2.ioc\\cp2.ioc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E7898DA-65EE-4C60-9BC7-2A37886F684E}|CP2.API\\CP2.API.csproj|C:\\Users\\maria\\Downloads\\checkpoint02\\cp2.api\\cp2.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{9E7898DA-65EE-4C60-9BC7-2A37886F684E}|CP2.API\\CP2.API.csproj|solutionrelative:cp2.api\\cp2.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7DD38BE-71C6-4394-83C6-8F1BA824BB58}|CP2.Domain\\CP2.Domain.csproj|C:\\Users\\maria\\Downloads\\checkpoint02\\cp2.domain\\interfaces\\ivendedorapplicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7DD38BE-71C6-4394-83C6-8F1BA824BB58}|CP2.Domain\\CP2.Domain.csproj|solutionrelative:cp2.domain\\interfaces\\ivendedorapplicationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FornecedorDto.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\Downloads\\checkpoint02\\CP2.Application\\Dtos\\FornecedorDto.cs",
+              "RelativeDocumentMoniker": "CP2.Application\\Dtos\\FornecedorDto.cs",
+              "ToolTip": "C:\\Users\\maria\\Downloads\\checkpoint02\\CP2.Application\\Dtos\\FornecedorDto.cs",
+              "RelativeToolTip": "CP2.Application\\Dtos\\FornecedorDto.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T00:47:29.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IFornecedorApplicationService.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\Downloads\\checkpoint02\\CP2.Domain\\Interfaces\\IFornecedorApplicationService.cs",
+              "RelativeDocumentMoniker": "CP2.Domain\\Interfaces\\IFornecedorApplicationService.cs",
+              "ToolTip": "C:\\Users\\maria\\Downloads\\checkpoint02\\CP2.Domain\\Interfaces\\IFornecedorApplicationService.cs",
+              "RelativeToolTip": "CP2.Domain\\Interfaces\\IFornecedorApplicationService.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAcAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T22:58:20.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FornecedorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\Downloads\\checkpoint02\\CP2.Data\\Repositories\\FornecedorRepository.cs",
+              "RelativeDocumentMoniker": "CP2.Data\\Repositories\\FornecedorRepository.cs",
+              "ToolTip": "C:\\Users\\maria\\Downloads\\checkpoint02\\CP2.Data\\Repositories\\FornecedorRepository.cs",
+              "RelativeToolTip": "CP2.Data\\Repositories\\FornecedorRepository.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAkwFcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T23:12:17.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VendedorDto.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\Downloads\\checkpoint02\\CP2.Application\\Dtos\\VendedorDto.cs",
+              "RelativeDocumentMoniker": "CP2.Application\\Dtos\\VendedorDto.cs",
+              "ToolTip": "C:\\Users\\maria\\Downloads\\checkpoint02\\CP2.Application\\Dtos\\VendedorDto.cs",
+              "RelativeToolTip": "CP2.Application\\Dtos\\VendedorDto.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA7wDUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T22:52:04.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FornecedorEntity.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\Downloads\\checkpoint02\\CP2.Domain\\Entities\\FornecedorEntity.cs",
+              "RelativeDocumentMoniker": "CP2.Domain\\Entities\\FornecedorEntity.cs",
+              "ToolTip": "C:\\Users\\maria\\Downloads\\checkpoint02\\CP2.Domain\\Entities\\FornecedorEntity.cs",
+              "RelativeToolTip": "CP2.Domain\\Entities\\FornecedorEntity.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwAkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T00:52:25.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VendedorEntity.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\Downloads\\checkpoint02\\CP2.Domain\\Entities\\VendedorEntity.cs",
+              "RelativeDocumentMoniker": "CP2.Domain\\Entities\\VendedorEntity.cs",
+              "ToolTip": "C:\\Users\\maria\\Downloads\\checkpoint02\\CP2.Domain\\Entities\\VendedorEntity.cs",
+              "RelativeToolTip": "CP2.Domain\\Entities\\VendedorEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T23:22:54.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VendedorController.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\Downloads\\checkpoint02\\CP2.API\\Controllers\\VendedorController.cs",
+              "RelativeDocumentMoniker": "CP2.API\\Controllers\\VendedorController.cs",
+              "ToolTip": "C:\\Users\\maria\\Downloads\\checkpoint02\\CP2.API\\Controllers\\VendedorController.cs",
+              "RelativeToolTip": "CP2.API\\Controllers\\VendedorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T22:48:59.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FornecedorController.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\Downloads\\checkpoint02\\CP2.API\\Controllers\\FornecedorController.cs",
+              "RelativeDocumentMoniker": "CP2.API\\Controllers\\FornecedorController.cs",
+              "ToolTip": "C:\\Users\\maria\\Downloads\\checkpoint02\\CP2.API\\Controllers\\FornecedorController.cs",
+              "RelativeToolTip": "CP2.API\\Controllers\\FornecedorController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T22:48:37.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IVendedorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\Downloads\\checkpoint02\\CP2.Domain\\Interfaces\\IVendedorRepository.cs",
+              "RelativeDocumentMoniker": "CP2.Domain\\Interfaces\\IVendedorRepository.cs",
+              "ToolTip": "C:\\Users\\maria\\Downloads\\checkpoint02\\CP2.Domain\\Interfaces\\IVendedorRepository.cs",
+              "RelativeToolTip": "CP2.Domain\\Interfaces\\IVendedorRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T23:14:14.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IFornecedorDto.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\Downloads\\checkpoint02\\CP2.Domain\\Interfaces\\Dtos\\IFornecedorDto.cs",
+              "RelativeDocumentMoniker": "CP2.Domain\\Interfaces\\Dtos\\IFornecedorDto.cs",
+              "ToolTip": "C:\\Users\\maria\\Downloads\\checkpoint02\\CP2.Domain\\Interfaces\\Dtos\\IFornecedorDto.cs",
+              "RelativeToolTip": "CP2.Domain\\Interfaces\\Dtos\\IFornecedorDto.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAgwA0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T23:53:24.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20241012040516_MigrationDois.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\Downloads\\checkpoint02\\CP2.Data\\Migrations\\20241012040516_MigrationDois.cs",
+              "RelativeDocumentMoniker": "CP2.Data\\Migrations\\20241012040516_MigrationDois.cs",
+              "ToolTip": "C:\\Users\\maria\\Downloads\\checkpoint02\\CP2.Data\\Migrations\\20241012040516_MigrationDois.cs",
+              "RelativeToolTip": "CP2.Data\\Migrations\\20241012040516_MigrationDois.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T04:05:29.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Bootstrap.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\Downloads\\checkpoint02\\CP2.IoC\\Bootstrap.cs",
+              "RelativeDocumentMoniker": "CP2.IoC\\Bootstrap.cs",
+              "ToolTip": "C:\\Users\\maria\\Downloads\\checkpoint02\\CP2.IoC\\Bootstrap.cs",
+              "RelativeToolTip": "CP2.IoC\\Bootstrap.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T01:00:15.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\Downloads\\checkpoint02\\CP2.API\\Program.cs",
+              "RelativeDocumentMoniker": "CP2.API\\Program.cs",
+              "ToolTip": "C:\\Users\\maria\\Downloads\\checkpoint02\\CP2.API\\Program.cs",
+              "RelativeToolTip": "CP2.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T00:58:12.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\Downloads\\checkpoint02\\CP2.Data\\Migrations\\ApplicationContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "CP2.Data\\Migrations\\ApplicationContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\maria\\Downloads\\checkpoint02\\CP2.Data\\Migrations\\ApplicationContextModelSnapshot.cs",
+              "RelativeToolTip": "CP2.Data\\Migrations\\ApplicationContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T03:55:25.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20241012035148_MigrationUm.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\Downloads\\checkpoint02\\CP2.Data\\Migrations\\20241012035148_MigrationUm.cs",
+              "RelativeDocumentMoniker": "CP2.Data\\Migrations\\20241012035148_MigrationUm.cs",
+              "ToolTip": "C:\\Users\\maria\\Downloads\\checkpoint02\\CP2.Data\\Migrations\\20241012035148_MigrationUm.cs",
+              "RelativeToolTip": "CP2.Data\\Migrations\\20241012035148_MigrationUm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T03:59:53.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ApplicationContext.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\Downloads\\checkpoint02\\CP2.Data\\AppData\\ApplicationContext.cs",
+              "RelativeDocumentMoniker": "CP2.Data\\AppData\\ApplicationContext.cs",
+              "ToolTip": "C:\\Users\\maria\\Downloads\\checkpoint02\\CP2.Data\\AppData\\ApplicationContext.cs",
+              "RelativeToolTip": "CP2.Data\\AppData\\ApplicationContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T01:26:09.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IVendedorDto.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\Downloads\\checkpoint02\\CP2.Domain\\Interfaces\\Dtos\\IVendedorDto.cs",
+              "RelativeDocumentMoniker": "CP2.Domain\\Interfaces\\Dtos\\IVendedorDto.cs",
+              "ToolTip": "C:\\Users\\maria\\Downloads\\checkpoint02\\CP2.Domain\\Interfaces\\Dtos\\IVendedorDto.cs",
+              "RelativeToolTip": "CP2.Domain\\Interfaces\\Dtos\\IVendedorDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T22:55:37.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\maria\\Downloads\\checkpoint02\\CP2.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "CP2.API\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\maria\\Downloads\\checkpoint02\\CP2.API\\appsettings.Development.json",
+              "RelativeToolTip": "CP2.API\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-12T01:33:52.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\maria\\Downloads\\checkpoint02\\CP2.API\\appsettings.json",
+              "RelativeDocumentMoniker": "CP2.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\maria\\Downloads\\checkpoint02\\CP2.API\\appsettings.json",
+              "RelativeToolTip": "CP2.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-12T01:40:42.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "VendedorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\Downloads\\checkpoint02\\CP2.Data\\Repositories\\VendedorRepository.cs",
+              "RelativeDocumentMoniker": "CP2.Data\\Repositories\\VendedorRepository.cs",
+              "ToolTip": "C:\\Users\\maria\\Downloads\\checkpoint02\\CP2.Data\\Repositories\\VendedorRepository.cs",
+              "RelativeToolTip": "CP2.Data\\Repositories\\VendedorRepository.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAkwFAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T23:14:07.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IFornecedorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\Downloads\\checkpoint02\\CP2.Domain\\Interfaces\\IFornecedorRepository.cs",
+              "RelativeDocumentMoniker": "CP2.Domain\\Interfaces\\IFornecedorRepository.cs",
+              "ToolTip": "C:\\Users\\maria\\Downloads\\checkpoint02\\CP2.Domain\\Interfaces\\IFornecedorRepository.cs",
+              "RelativeToolTip": "CP2.Domain\\Interfaces\\IFornecedorRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T23:21:16.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FornecedorApplicationService.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\Downloads\\checkpoint02\\CP2.Application\\Services\\FornecedorApplicationService.cs",
+              "RelativeDocumentMoniker": "CP2.Application\\Services\\FornecedorApplicationService.cs",
+              "ToolTip": "C:\\Users\\maria\\Downloads\\checkpoint02\\CP2.Application\\Services\\FornecedorApplicationService.cs",
+              "RelativeToolTip": "CP2.Application\\Services\\FornecedorApplicationService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T22:55:41.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "VendedorApplicationService.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\Downloads\\checkpoint02\\CP2.Application\\Services\\VendedorApplicationService.cs",
+              "RelativeDocumentMoniker": "CP2.Application\\Services\\VendedorApplicationService.cs",
+              "ToolTip": "C:\\Users\\maria\\Downloads\\checkpoint02\\CP2.Application\\Services\\VendedorApplicationService.cs",
+              "RelativeToolTip": "CP2.Application\\Services\\VendedorApplicationService.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBQAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T22:49:34.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CP2.IoC",
+              "DocumentMoniker": "C:\\Users\\maria\\Downloads\\checkpoint02\\CP2.IoC\\CP2.IoC.csproj",
+              "RelativeDocumentMoniker": "CP2.IoC\\CP2.IoC.csproj",
+              "ToolTip": "C:\\Users\\maria\\Downloads\\checkpoint02\\CP2.IoC\\CP2.IoC.csproj",
+              "RelativeToolTip": "CP2.IoC\\CP2.IoC.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-12T01:00:06.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CP2.API.http",
+              "DocumentMoniker": "C:\\Users\\maria\\Downloads\\checkpoint02\\CP2.API\\CP2.API.http",
+              "RelativeDocumentMoniker": "CP2.API\\CP2.API.http",
+              "ToolTip": "C:\\Users\\maria\\Downloads\\checkpoint02\\CP2.API\\CP2.API.http",
+              "RelativeToolTip": "CP2.API\\CP2.API.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-10-12T00:58:38.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IVendedorApplicationService.cs",
+              "DocumentMoniker": "C:\\Users\\maria\\Downloads\\checkpoint02\\CP2.Domain\\Interfaces\\IVendedorApplicationService.cs",
+              "RelativeDocumentMoniker": "CP2.Domain\\Interfaces\\IVendedorApplicationService.cs",
+              "ToolTip": "C:\\Users\\maria\\Downloads\\checkpoint02\\CP2.Domain\\Interfaces\\IVendedorApplicationService.cs",
+              "RelativeToolTip": "CP2.Domain\\Interfaces\\IVendedorApplicationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T22:49:45.705Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

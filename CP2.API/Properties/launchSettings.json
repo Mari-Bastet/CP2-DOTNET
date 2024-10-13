@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "CP2.API": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:51179;http://localhost:51180"
+    }
+  }
+}

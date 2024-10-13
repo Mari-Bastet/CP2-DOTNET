@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\CP2.API",
+    "\\CP2.API\\Controllers",
+    "\\CP2.Application",
+    "\\CP2.Application\\Services",
+    "\\CP2.IoC"
+  ],
+  "SelectedNode": "\\CP2.Application\\Services\\VendedorApplicationService.cs",
+  "PreviewInSolutionExplorer": false
+}

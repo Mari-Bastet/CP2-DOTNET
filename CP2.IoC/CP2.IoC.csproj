@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CP2.Application\CP2.Application.csproj" />
+    <ProjectReference Include="..\CP2.Data\CP2.Data.csproj" />
+    <ProjectReference Include="..\CP2.Domain\CP2.Domain.csproj" />
+  </ItemGroup>
+
+</Project>
